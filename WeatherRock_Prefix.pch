@@ -1,0 +1,14 @@
+//
+// Prefix header for all source files of the 'BrissyBom' target in the 'BrissyBom' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+
+	//#import "Constants.h"
+	#import "ImageAnalysis.h"
+	#import "Helpers.h"
+	#import "RadarDownloader.h"
+
+	#import "Configuration.h"
+#endif
