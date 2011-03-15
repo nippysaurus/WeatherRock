@@ -3,7 +3,7 @@
 //  BrissyBom
 //
 //  Created by Michael Dawson on 1/03/11.
-//  Copyright 2011 Nuance. All rights reserved.
+//  Copyright 2011 Nippysaurus. All rights reserved.
 //
 
 #import <Cocoa/Cocoa.h>
